@@ -1,0 +1,23 @@
+{
+  "name": "bttdevamount",
+  "version": "1.0.0",
+  "description": "Auto withdraw BTT",
+  "main": "withdraw-v3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badenbaden/BTTdevAMOUNT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badenbaden/BTTdevAMOUNT/issues"
+  },
+  "homepage": "https://github.com/badenbaden/BTTdevAMOUNT#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
