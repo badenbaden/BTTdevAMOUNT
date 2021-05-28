@@ -1,0 +1,2 @@
+node withdraw.js
+pause

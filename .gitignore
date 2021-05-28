@@ -1,2 +1,4 @@
 /node_modules/
 /.idea/
+/debug.log
+/more-debug.log
