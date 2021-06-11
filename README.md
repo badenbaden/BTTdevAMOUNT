@@ -28,7 +28,7 @@ npm install log4js  <br>
 Запуск производить через START.bat
 <br><br>
 
-Вопросы по скрипту Вы можете задавать в группе - https://t.me/BTTdevAMOUNTtalk
+Вопросы по скрипту Вы можете задавать в группе - https://t.me/BTTdevAMOUNTtalk <br>
 Канал с оповещениями о поступлении средств на счет шлюза - https://t.me/BTTdevAMOUNT
 
 Решения некоторых проблем:
