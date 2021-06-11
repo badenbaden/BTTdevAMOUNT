@@ -1,7 +1,7 @@
 # BTTdevAMOUNT
 Auto withdraw BTT
 
-Скрипт автовывода BTTdevAMOUNT v3
+Скрипт автовывода BTTdevAMOUNT v3. 
 Телеграм - https://t.me/BTTdevAMOUNT <br>
 В файле ***withdraw.js*** - требуется указать порт (брать из браузера при откытом окне speed) 
 
@@ -15,7 +15,7 @@ Auto withdraw BTT
 Вашем кошельке произойдет вывод. Через секунду будет производить попытки вывода снова,
 при выполнении таких же условий. Скрипт пишет логи. Транзакции помечаются словами WARN
 
-За донаты буду благодарен - TSyUu26uvXy4Up5d8MXApTBGKCzuDcjRCR
+За донаты буду благодарен - *TSyUu26uvXy4Up5d8MXApTBGKCzuDcjRCR*
 
 
 Для работы нужен Node.js  <br>
@@ -26,3 +26,10 @@ npm install node-fetch  <br>
 npm install log4js  <br>
 <br>
 Запуск производить через START.bat
+<br><br>
+
+Вопросы по скрипту Вы можете задавать в группе - https://t.me/BTTdevAMOUNTtalk
+Канал с оповещениями о поступлении средств на счет шлюза - https://t.me/BTTdevAMOUNT
+
+Решения некоторых проблем:
+1. Скрипт зависает при клике внутри окна с работающим скриптом - https://t.me/BTTdevAMOUNTtalk/4175
